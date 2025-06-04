@@ -31,17 +31,18 @@ repository               : "python-accelerator-middle-layer/python-accelerator-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 words_per_minute         : 200
+copyright                : "Python Accelerator Middle Layer collaboration"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default) 
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -50,9 +51,7 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-    
-#search: true
-  
+      
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -89,7 +88,7 @@ author:
   bio              : #"I am an **amazing** person."
   location         : #"Somewhere"
   email            : pyaml-steering-committee-contact@esrf.fr.
-#  links:
+  links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
 #      # url: "mailto:your.name@email.com"
@@ -102,9 +101,9 @@ author:
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      # url: "https://facebook.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      # url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/python-accelerator-middle-layer"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      # url: "https://instagram.com/"
@@ -121,7 +120,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/python-accelerator-middle-layer"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -282,8 +281,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
       share: true
       related: true    
