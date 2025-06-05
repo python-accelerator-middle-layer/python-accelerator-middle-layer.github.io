@@ -11,7 +11,7 @@ Documentation for configurating the them is available at [https://mmistakes.gith
 1. Install Jekyll and other dependencies by following the instructions at [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 2. Clone the repository
 3. Install the gems with``bundle install``
-4. Build the page with ``bundle exec jekyll serve``. In the terminal you should get a link to view the page.
+4. Build the page with ``bundle exec jekyll serve``. In the terminal you should get a link to the server address to view the page.
 
 ### Add content
 
