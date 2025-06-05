@@ -13,7 +13,7 @@ There is a community email list. To be added to it, contact the pyAML steering c
 
 If you want to unsubscribe, email <a href="mailto:accelerator_middle_layer-unsubscribe&#64;esrf&#64;fr">accelerator_middle_layer-unsubscribe@esrf.fr</a>. 
 
-### Github
+### GitHub
 
 The code repositories are hosted on [GitHub](https://github.com/python-accelerator-middle-layer).
 
