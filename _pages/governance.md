@@ -42,7 +42,7 @@ The current steering committee members are:
 | Ilya Agapov (DESY)   | Konstantinos Paraschou (DESY)      |
 | Simon White (ESRF)   | Simone Liuzzo (ESRF)               |
 | Teresia Olsson (HZB) | Markus Ries (HZB)                  |
-| Laurent Nadolski(SOLEIL) | Patrick Madela (SOLEIL)        | 
+| Laurent Nadolski (SOLEIL) | Patrick Madela (SOLEIL)        | 
 | Marco Apollonio (MAX IV) | Stephen Molloy (MAX IV)        | 
 
 To contact the steering committee, email <a href="mailto:pyaml-steering-committee-contact&#64;esrf&#64;fr">pyaml-steering-committee-contact@esrf.fr</a>. This address goes to the person/s the steering committee has appointed as the contact.

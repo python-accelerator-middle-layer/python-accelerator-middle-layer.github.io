@@ -13,7 +13,7 @@ The governance document is available on [GitHub](https://github.com/python-accel
  
 ### Specification
 
-The specification is currently under development. It is written collaborately on Overleaf.
+The specification is currently under development. It is written collaborately on Overleaf. Feel free to comment and make suggestions!
 
 - Requirement Specification:
   [https://www.overleaf.com/6632675387jrmgtdnzbxhq#b3b3c5](https://www.overleaf.com/6632675387jrmgtdnzbxhq#b3b3c5)
