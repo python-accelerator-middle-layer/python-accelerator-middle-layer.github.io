@@ -1,4 +1,4 @@
-This repository hosts the GitHub page.
+This repository hosts the GitHub page for the Python Accelerator Middle Layer.
 
 The page is using the Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
