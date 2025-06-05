@@ -200,8 +200,8 @@ permalink: /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
@@ -275,39 +275,64 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Collections    
+collections:
+  community:
+    output: true
+    permalink: /:collection/:path/
+  meetings:
+    output: true
+    permalink: /:collection/:path/
+  governance:
+    output: true
+    permalink: /:collection/:path/
+  documents:
+    output: true
+    permalink: /:collection/:path/                   
     
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: false
       read_time: false
       comments: # true
-      share: true
-      related: true    
-
-#defaults:
-#  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
-#  # _pages
-#  - scope:
-#      path: "_pages"
-#      type: pages
-#    values:
-#      layout: single
- #     author_profile: true
-
-
+      share: false
+      related: false
+  # _community
+  - scope:
+      path: ""
+      type: community
+    values:
+      layout: single
+      author_profile: false
+      share: false      
+  # _meetings
+  - scope:
+      path: ""
+      type: meetings
+    values:
+      layout: single
+      author_profile: false
+      share: false
+  # _governance
+  - scope:
+      path: ""
+      type: governance
+    values:
+      layout: single
+      author_profile: false
+      share: false
+  # _documents
+  - scope:
+      path: ""
+      type: documents
+    values:
+      layout: single
+      author_profile: false
+      share: false                    
