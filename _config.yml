@@ -130,6 +130,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Mattermost"
+      icon: "fas fa-fw fa-comments"
+      url: https://mattermost.hzdr.de/signup_user_complete/?id=cdcea9p8hfr3ic8jdrrydzxxpy&md=link&sbr=su
 
 # Reading Files
 include:
