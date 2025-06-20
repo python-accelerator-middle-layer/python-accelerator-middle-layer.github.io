@@ -9,8 +9,9 @@ classes: wide
 
 ### Weekly Meeting
 
-We have a weekly open zoom meeting for those who want to work on the specification documents together.
+The weekly meeting to work on the specification documents will be discontinued from week 26 (23-29 June). It will be replaced with regular maintainers meetings and a community meeting every third month or so.
 
-Fridays 9.00-10.00 (CET)
 
-Zoom link: [https://esrf.zoom.us/j/94878115036?pwd=2rsI5goxratGwXc5mRT99suMky2I34.1](https://esrf.zoom.us/j/94878115036?pwd=2rsI5goxratGwXc5mRT99suMky2I34.1)
+### Community Meeting
+
+Date for next meeting is to be decided. Likely it will be in September.
