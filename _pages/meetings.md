@@ -11,7 +11,8 @@ classes: wide
 
 Community meetings are arranged on Zoom.
 
-Next meeting: **4 September** 16.00 (CEST). Agenda and zoom link to come.
+Next meeting: **4 September** 16.00 (CEST). [Agenda and Zoom link](https://events.hifis.net/event/3029/)
+
 
 ##### Past Community Meetings
 
