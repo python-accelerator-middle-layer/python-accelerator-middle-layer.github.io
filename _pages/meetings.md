@@ -11,10 +11,12 @@ classes: wide
 
 Community meetings are arranged on Zoom.
 
-Next meeting: **4 September** 16.00 (CEST). [Agenda and Zoom link](https://events.hifis.net/event/3029/)
+Next meeting: **4 December 2025** 16.00 (CEST). Agenda and zoom link will be available closer to the date.
 
 
 ##### Past Community Meetings
+
+[**4 September 2025**](https://events.hifis.net/event/3029/)
 
 [**11 April 2025**](https://indico.esrf.fr/event/187/)
 
