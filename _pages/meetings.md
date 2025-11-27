@@ -11,8 +11,7 @@ classes: wide
 
 Community meetings are arranged on Zoom.
 
-Next meeting: **4 December 2025** 16.00 (CEST). Agenda and zoom link will be available closer to the date.
-
+Next meeting: **4 December 2025** 16.00 (CEST): [**Agenda and zoom link**](https://events.hifis.net/event/3207/)
 
 ##### Past Community Meetings
 
