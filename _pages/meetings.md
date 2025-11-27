@@ -33,10 +33,10 @@ Next meeting: **4 December 2025** 16.00 (CEST). Agenda and zoom link will be ava
 
 Workshops are arranged in a hybrid format.
 
-Next workshop: **3rd Accelerator Middle Layer Workshop** - Jan-Feb 2026 - Saint-Aubin, France
+Next workshop: **3rd Accelerator Middle Layer Workshop** - 2-4 February 2026, Saint-Aubin, France. Registration opening soon.
 
 ##### Past Workshops
 
-- [**2nd Accelerator Middle Layer Workshop**](https://events.hifis.net/event/1997/) - 12-14 February 2025 - Berlin, Germany
+- [**2nd Accelerator Middle Layer Workshop**](https://events.hifis.net/event/1997/) - 12-14 February 2025, Berlin, Germany
 
-- [**Accelerator Middle Layer Workshop**](https://indico.desy.de/event/43233/) - 19-21 June February 2024 - Hamburg, Germany
+- [**Accelerator Middle Layer Workshop**](https://indico.desy.de/event/43233/) - 19-21 June February 2024, Hamburg, Germany
