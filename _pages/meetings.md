@@ -11,9 +11,11 @@ classes: wide
 
 Community meetings are arranged on Zoom.
 
-Next meeting: **4 December 2025** 16.00 (CEST): [**Agenda and zoom link**](https://events.hifis.net/event/3207/)
+Next meeting: To be decided. Likely February-March 2026.
 
 ##### Past Community Meetings
+
+[**4 December 2025**](https://events.hifis.net/event/3207/)
 
 [**4 September 2025**](https://events.hifis.net/event/3029/)
 
@@ -32,7 +34,8 @@ Next meeting: **4 December 2025** 16.00 (CEST): [**Agenda and zoom link**](https
 
 Workshops are arranged in a hybrid format.
 
-Next workshop: [**3rd Accelerator Middle Layer Workshop**](https://indico.synchrotron-soleil.fr/e/pyAML-2026) - 2-4 February 2026, Saint-Aubin, France. Registration opened December 4th 2025 - January 19th 2026.
+Next workshop: [**3rd Accelerator Middle Layer Workshop**](https://indico.synchrotron-soleil.fr/e/pyAML-2026) - 2-4 February 2026, Saint-Aubin, France.
+Registration open: December 4th 2025 - January 19th 2026.
 
 ##### Past Workshops
 
