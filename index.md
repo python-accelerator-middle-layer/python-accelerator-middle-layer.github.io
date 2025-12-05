@@ -4,6 +4,8 @@ author_profile: false
 classes: wide
 ---
 
+Join us for [the 3rd Accelerator Middle Layer Workshop](https://indico.synchrotron-soleil.fr/event/125/) hosted at Synchrotron SOLEIL in France on February 2-4 2026!
+
 Python Accelerator Middle Layer (pyAML) is a joint technology platform for **design**, **commissioning** and **operation** of particle accelerators.
 
 It is developed, benchmarked and maintained collaboratively by an open-source community driven by accelerator facilities around the world.
