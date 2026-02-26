@@ -34,10 +34,9 @@ Next meeting: 5 March 2026 16.00-18.00 (CET). Agenda and zoom link will be avail
 
 Workshops are arranged in a hybrid format.
 
-Next workshop: [**3rd Accelerator Middle Layer Workshop**](https://indico.synchrotron-soleil.fr/e/pyAML-2026) - 2-4 February 2026, Saint-Aubin, France.
-Registration open: December 4th 2025 - January 19th 2026.
-
 ##### Past Workshops
+
+- [**3rd Accelerator Middle Layer Workshop**](https://indico.synchrotron-soleil.fr/e/pyAML-2026)- 2-4 February 2026, Saint-Aubin, France
 
 - [**2nd Accelerator Middle Layer Workshop**](https://events.hifis.net/event/1997/) - 12-14 February 2025, Berlin, Germany
 
