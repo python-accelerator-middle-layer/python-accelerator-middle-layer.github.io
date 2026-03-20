@@ -13,7 +13,7 @@ The governance document is available on [GitHub](https://github.com/python-accel
  
 ### Specification
 
-The specification is currently under development. It is written collaborately on Overleaf. Feel free to comment and make suggestions!
+The specification is written collaborately on Overleaf. Feel free to comment and make suggestions!
 
 - Requirement Specification:
   [https://www.overleaf.com/6632675387jrmgtdnzbxhq#b3b3c5](https://www.overleaf.com/6632675387jrmgtdnzbxhq#b3b3c5)
@@ -22,3 +22,7 @@ The specification is currently under development. It is written collaborately on
   [https://www.overleaf.com/8296337372wkxgpsdvrptp#3d77d7](https://www.overleaf.com/8296337372wkxgpsdvrptp#3d77d7)
   
 In the beginning of each document is a description of the purpose of the document.
+
+### Roadmaps
+
+The roadmap for 2026-2027 is available on [GitHub](https://github.com/python-accelerator-middle-layer/governance/blob/main/roadmaps/roadmap_2026-2027.pdf).
