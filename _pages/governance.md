@@ -41,8 +41,7 @@ The current steering committee members are:
 |--------------------- |------------------------------------|
 | Ilya Agapov (DESY)   | Konstantinos Paraschou (DESY)      |
 | Simon White (ESRF)   | Simone Liuzzo (ESRF)               |
-| Teresia Olsson (HZB) | Markus Ries (HZB)                  |
-| Marco Apollonio (MAX IV) | Stephen Molloy (MAX IV)        | 
+| Teresia Olsson (HZB) | Markus Ries (HZB)                  | 
 | Laurent Nadolski (SOLEIL) | Patrick Madela (SOLEIL)       | 
 
 
