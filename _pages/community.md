@@ -17,7 +17,7 @@ If you want to unsubscribe, email <a href="mailto:accelerator_middle_layer-unsub
 
 The code repositories are hosted on [GitHub](https://github.com/python-accelerator-middle-layer).
 
-### Mattermost
+### Matrix
 
 The community also has a Matrix team. Instructions for how to create a Matrix account can be found in the [HIFIS Matrix documentation](https://hifis.net/doc/software/matrix/getting-started/).
 
