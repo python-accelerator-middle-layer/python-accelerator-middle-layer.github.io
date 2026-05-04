@@ -19,7 +19,7 @@ The code repositories are hosted on [GitHub](https://github.com/python-accelerat
 
 ### Mattermost
 
-The community also has a Mattermost team. [Sign up here](https://mattermost.hzdr.de/signup_user_complete/?id=cdcea9p8hfr3ic8jdrrydzxxpy&md=link&sbr=su).
+The community also has a Matrix team. Instructions for how to create a Matrix account can be found in the [HIFIS Matrix documentation](https://hifis.net/doc/software/matrix/getting-started/).
 
-Choose to login with Gitlab and then "Sign in with Helmholtz ID". You should then be able to select your home institution and log in with your home institution's credentials.
-You can also login with other credential providers (such as GitHub, Google or ORCID) if you prefer.
+To join the pyAML Matrix team use the link: [https://matrix.helmholtz.cloud/#/room/#pyaml:helmholtz.cloud](https://matrix.helmholtz.cloud/#/room/#pyaml:helmholtz.cloud)
+
