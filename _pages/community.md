@@ -21,6 +21,6 @@ The code repositories are hosted on [GitHub](https://github.com/python-accelerat
 
 The community also has a Matrix space. Instructions for how to create a Matrix account can be found in the [HIFIS Matrix documentation](https://hifis.net/doc/software/matrix/getting-started/).
 
-To join the pyAML Matrix space use the link: [https://matrix.helmholtz.cloud/#/room/#pyaml:helmholtz.cloud](https://matrix.helmholtz.cloud/#/room/#pyaml:helmholtz.cloud).
+To join the pyAML Matrix space use the link: [https://to.matrix.helmholtz.cloud/#/#pyaml:helmholtz.cloud](https://to.matrix.helmholtz.cloud/#/#pyaml:helmholtz.cloud).
 You can then join the rooms inside the space that you are interested in.
 
