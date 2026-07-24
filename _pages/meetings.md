@@ -11,11 +11,13 @@ classes: wide
 
 Community meetings are arranged on Zoom.
 
-Next meeting: 11 June 2026 16.00-18.00 (CEST). [Agenda and zoom link](https://events.hifis.net/event/4007/).
+Next meeting: 17 September 2026 16.00-18.00 (CEST). [Agenda and zoom link](https://events.hifis.net/event/4404/).
 
 ##### Past Community Meetings
 
-[**5 March 2025**](https://events.hifis.net/event/3583/)
+[**11 June 2026**](https://events.hifis.net/event/4007/)
+
+[**5 March 2026**](https://events.hifis.net/event/3583/)
 
 [**4 December 2025**](https://events.hifis.net/event/3207/)
 
