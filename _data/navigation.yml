@@ -1,4 +1,6 @@
 main:
+  - title: "Documentation"
+    url: https://python-accelerator-middle-layer.github.io/documentation/
   - title: "Community"
     url: /community/
   - title: "Meetings"
