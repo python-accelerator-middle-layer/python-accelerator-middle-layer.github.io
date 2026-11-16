@@ -38,7 +38,7 @@ Community meetings are arranged on Zoom.
 
 Workshops are arranged in a hybrid format.
 
-Next workshop: 10-12 February 2027, Grenoble, France. Information and registration: https://indico.esrf.fr/event/394/
+**Next workshop**: 10-12 February 2027, Grenoble, France. Information and registration: [Workshop website](https://indico.esrf.fr/event/394/)
 
 ##### Past Workshops
 
