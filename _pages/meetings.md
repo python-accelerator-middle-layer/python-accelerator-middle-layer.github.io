@@ -38,6 +38,8 @@ Community meetings are arranged on Zoom.
 
 Workshops are arranged in a hybrid format.
 
+**Next workshop**: 10-12 February 2027, Grenoble, France. Information and registration: [Workshop website](https://indico.esrf.fr/event/394/)
+
 ##### Past Workshops
 
 - [**3rd Accelerator Middle Layer Workshop**](https://indico.synchrotron-soleil.fr/e/pyAML-2026) - 2-4 February 2026, Saint-Aubin, France
